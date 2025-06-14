@@ -23,7 +23,6 @@ Full Stack Open is a comprehensive course covering modern web development with J
 Each part of the course is organized in its own folder:
 
 ```
-/
 ├── part0/ # Fundamentals of Web Apps (diagrams)
 ├── part1/ # React basics
 ├── part2/ # Communicating with server
